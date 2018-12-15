@@ -62,3 +62,4 @@ Resurse folosite:
 	-http://morganlangille.com/teaching/bioc4010/lab5/Lab5.html?fbclid=IwAR3eycm6XD5xtP1IMCBZug4LaEARUW6OPB5e4VCLhFQidFV34wdj5BeE4nc
 
 	-https://pythex.org/   (Pentru verificarea expresiei regulate)
+	-https://www.researchgate.net/post/How_to_remove_introns_from_DNA_sequences_extracted_from_GenBank_like_the_nuclear_protein_gene_EF-1a
