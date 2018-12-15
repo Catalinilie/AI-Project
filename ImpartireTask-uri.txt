@@ -63,3 +63,7 @@ Resurse folosite:
 
 	-https://pythex.org/   (Pentru verificarea expresiei regulate)
 	-https://www.researchgate.net/post/How_to_remove_introns_from_DNA_sequences_extracted_from_GenBank_like_the_nuclear_protein_gene_EF-1a
+	-https://www.reddit.com/r/bioinformatics/comments/64hqji/how_to_extract_intronic_sequences_from_genes/	
+	-https://www.biostars.org/p/181712/
+	-https://support.bioconductor.org/p/42033/
+	-https://www.youtube.com/watch?v=_asGjfCTLNE
