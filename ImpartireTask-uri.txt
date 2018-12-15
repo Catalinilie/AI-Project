@@ -1,0 +1,64 @@
+Saptamana 9
+
+    Toata echipa a realizat individual intrebari si raspunsuri legate de proiect din prezentarile dl-lui Iulian Gabur.
+
+
+Saptamana 10
+
+
+    Dodu Emanuel Andrei: expresia regulata la segmentare,2 sesiuni skype cu Prisacariu Catalin si Botez Serban.
+
+    Botez Serban Mihai: citit datele din fisiere in blocuri de date,expresie regulata, 2 sesiuni skype cu  Prisacariu Catalin si  Dodu Emanuel, tratarea exceptiilor si usecase-urilor neadecvate din aplicatie.
+
+    Prisacariu Ilie-Catalin: expresia regulata,  2 sesiuni skype cu  Botez Serban si  Dodu Emanuel, verificare ca nu pierdem genele din blocurile pe care le-am citit(daca citim inceputul unei gene in blocul 1, iar la inceputul blocului 2 se afla finalul).
+
+    Olaru Iulian Constantin: Research despre eiminarea intronilor din gene. Analizare output Augustus.
+ 
+    Popa Denis Andrei: Research despre eliminarea intronilor din gene.  Analizare output Augustus.
+
+    Spitelnicu Andrei: Cautare informatii genom, gene, introni; Verificare manual corectitudine gene prin compararea output-ului nostru cu cel dat ca exemplu;
+    
+    Ababei Robert: Cautare informatii genom, gene, introni; Verificare manual corectitudine  gene prin compararea output-ului nostru cu cel dat ca exemplu;
+    
+    
+Saptamana 11 
+
+    Dodu Emanuel Andrei: documentare in legatura cu segmentarea, incercare de rescriere a unei noi expresii regulate;  
+
+    Botez Serban Mihai: documentare in legatura cu segmentarea, incercare de gasire a unor reguli noi pentru segmentare;
+    
+    Prisacariu Ilie-Catalin: documentare in legatura cu segmentarea, incercare de rescriere a unei noi expresii regulate;
+    
+    Popa Denis Andrei: Script python pentru translatare, folosind regulile din curs(Intoronii sunt de format GT-AG), gena este parcursa in grupuri de trei caractere, cautarea unor reguli pentru a elimina intronii gasiti in plus de script.
+
+    Olaru Iulian Constantin: Integrare Augustus, cautarea unor reguli pentru a elimina intronii gasiti in plus de script.
+    
+    Spitelnicu Andrei: Incercare de a realiza scriptul de verificare a genelor returnate de segmentare.
+    
+    Ababei Robert:  Incercare de a realiza scriptul de verificare a genelor returnate de segmentare.
+    
+Taskuri Saptamana 12 :
+
+    Dodu Emanuel Andrei: Rulare algoritm Augustus pe cele 2 fisiere ramase (1.2 si 1.3), incercare de a reface segmentarea.
+
+    Botez Serban-Mihai:  Rulare algoritm Augustus pe cele 2 fisiere ramase (1.2 si 1.3), incercare de a reface segmentarea.
+
+    Prisacariu Ilie-Catalin: Cautare reguli pentru segmentare, incercare de a reface segmentarea.
+
+    Popa Denis Andrei: cautarea  altor reguli pentru translatarea genelor, asistenta Augustus in cautarea regulilor Augustus.
+    
+    Olaru Iulian Constantin: cautare reguli si cod algoritm Augustus, script prelucrare output Augustus.
+    
+    Spitelnicu Andrei: Terminare script de verificare.
+    
+    Ababei Robert:  Ierminare script de verificare.
+    
+    
+Resurse folosite:
+	-https://github.com/KorfLab/CEGMA_v2?fbclid=IwAR1Znr5XL_D03_v4D7TVogoQnA6RJc5CpXtkBI_TUXs_tb1UPuEgNiF7Zmg
+
+	-https://github.com/nextgenusfs/augustus/tree/master/scripts?fbclid=IwAR0oyJY7j6Qdue-C_C1F1wGvHDOGVzemNZIT34Yulcn76PjvnBZ30_AWNVA
+
+	-http://morganlangille.com/teaching/bioc4010/lab5/Lab5.html?fbclid=IwAR3eycm6XD5xtP1IMCBZug4LaEARUW6OPB5e4VCLhFQidFV34wdj5BeE4nc
+
+	-https://pythex.org/   (Pentru verificarea expresiei regulate)
