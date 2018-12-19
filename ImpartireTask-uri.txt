@@ -6,7 +6,7 @@ Saptamana 9
 Saptamana 10
 
 
-    Dodu Emanuel Andrei: expresia regulata la segmentare,2 sesiuni skype cu Prisacariu Catalin si Botez Serban.
+    Dodu Emanuel Andrei: expresia regulata la segmentare, finalizare script segmentare, 2 sesiuni skype cu Prisacariu Catalin si Botez Serban.
 
     Botez Serban Mihai: citit datele din fisiere in blocuri de date,expresie regulata, 2 sesiuni skype cu  Prisacariu Catalin si  Dodu Emanuel, tratarea exceptiilor si usecase-urilor neadecvate din aplicatie.
 
@@ -51,7 +51,7 @@ Taskuri Saptamana 12 :
     
     Spitelnicu Andrei: Terminare script de verificare.
     
-    Ababei Robert:  Ierminare script de verificare.
+    Ababei Robert:  Terminare script de verificare.
     
     
 Resurse folosite:
@@ -60,6 +60,12 @@ Resurse folosite:
 	-https://github.com/nextgenusfs/augustus/tree/master/scripts?fbclid=IwAR0oyJY7j6Qdue-C_C1F1wGvHDOGVzemNZIT34Yulcn76PjvnBZ30_AWNVA
 
 	-http://morganlangille.com/teaching/bioc4010/lab5/Lab5.html?fbclid=IwAR3eycm6XD5xtP1IMCBZug4LaEARUW6OPB5e4VCLhFQidFV34wdj5BeE4nc
+
+	https://www.bx.psu.edu/~ross/workmg/GeneticCodeCh13.htm?fbclid=IwAR39Rp7yGMUZ-P41aSJIXEPWdqArTv-_1jc_SibFDmnU54HofTSRIEDomuE
+	(Cautare reguli noi pentru segmentare)
+	
+	https://learn.genetics.utah.edu/content/basics/dnacodes/?fbclid=IwAR18HDiprDSE2Ps0XKn3co5I2yrCf6-TW50rO4PgnyH_WjSwCrDUN0FiNyQ
+	(Incercare de refacere script segmentare)
 
 	-https://pythex.org/   (Pentru verificarea expresiei regulate)
 	-https://www.researchgate.net/post/How_to_remove_introns_from_DNA_sequences_extracted_from_GenBank_like_the_nuclear_protein_gene_EF-1a
