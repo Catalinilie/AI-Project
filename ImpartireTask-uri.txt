@@ -54,7 +54,66 @@ Taskuri Saptamana 12 :
     Ababei Robert:  Terminare script de verificare.
     
     
-Resurse folosite:
+	
+	
+Contributie totala:
+	
+    Dodu Emanuel Andrei: Scrum Master, rulat Augustus pe 3 fisiere(timp de o saptamana), incercare de a introduce in API baza de date:
+						gasire reguli noi pentru segmentare:
+						http://morganlangille.com/teaching/bioc4010/lab5/Lab5.html?fbclid=IwAR3eycm6XD5xtP1IMCBZug4LaEARUW6OPB5e4VCLhFQidFV34wdj5BeE4nc
+						
+
+    Botez Serban-Mihai:  Algoritmi pentru segmentare(segmentare.py si segmentation.py), 
+						documentatie si research pentru algoritmul Augustus si alti algoritmi probabilisti: 
+								https://ksvi.mff.cuni.cz/~mraz/bioinf/BioAlg10-9.pdf
+								http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.619.3418&rep=rep1&type=pdf
+								https://academic.oup.com/bioinformatics/article/19/suppl_2/ii215/180603
+								https://www.pnas.org/content/92/26/12495.short
+						asistenta pentru integrarea modulelor necesare in API.
+
+    Prisacariu Ilie-Catalin: Algoritmi pentru segmentare(segmentare.py si segmentation.py), incercare de a introduce in API baza de date, research pentru segmentare
+							  research pentru segmentare:
+							  https://github.com/nextgenusfs/augustus/tree/master/scripts?fbclid=IwAR0oyJY7j6Qdue-C_C1F1wGvHDOGVzemNZIT34Yulcn76PjvnBZ30_AWNVA
+							 
+
+    Popa Denis Andrei: Algoritmi pentru translatare neprobabilisti, API pentru integrare cu modulul de interfata,  
+						research pentru translatare:
+							http://www.imgt.org/IMGTeducation/Aide-memoire/_UK/splicing/?fbclid=IwAR0XvsHU9BmPgf8LyP0acs3WNPNq3VN7CmQNtpkcJvdi-hh1UbD5ht30KfI
+							http://www.web-books.com/MoBio/Free/Ch5A4.htm?fbclid=IwAR0XE4KZNOmdu_9-f3BjPEp3_FHFutufObD5ACA9SsMilLocwjDajmQw5-0
+						prelucrare output Augustus in format Json(PrelucrareAugustusOutputgenerareJSON.py).
+		
+    Olaru Iulian Constantin: Prelucrare output Augustus si transformare in Json(PrelucrareAugustusOutputgenerareJSON.py). 
+							Rulat Augustus pe fisierul 2(fara succes - rulat timp de 2 nopti),
+							research pentru translatare:
+							https://www.youtube.com/watch?v=_zSbAvsEwqE&feature=youtu.be&fbclid=IwAR2WWRzIo9po27Aj2n06HVVl5ctH9DjGdWCXs3-2WHC98lHgeOI54d8NUk8
+							https://www.sciencedirect.com/topics/neuroscience/rna-splicing?fbclid=IwAR1ucEJveB42zaJj0c35actMH68mjansy67hOnDBE-4b9XJHSC7Whn_cj0c
+							
+							
+    Spitelnicu Andrei: script comparare si verificare output segmentare si augustus(compara.py), 
+						research pentru segmentare:
+						https://www.bx.psu.edu/~ross/workmg/GeneticCodeCh13.htm?fbclid=IwAR39Rp7yGMUZ-P41aSJIXEPWdqArTv-_1jc_SibFDmnU54HofTSRIEDomuE
+						http://anatop.usmf.md/wp-content/blogs.dir/164/files/sites/164/2014/08/LP8-Gena.pdf
+						
+    Ababei Robert:  script comparare si verificare output segmentare si augustus(compara.py),
+					cautare informatii genom, gene, introni:
+					https://www.researchgate.net/post/How_to_remove_introns_from_DNA_sequences_extracted_from_GenBank_like_the_nuclear_protein_gene_EF-1a
+					https://support.bioconductor.org/p/42033/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Resurse folosite(Mai sunt alte linkuri la resurse si in Documentatia oficiala a proiectului):
 	-https://github.com/KorfLab/CEGMA_v2?fbclid=IwAR1Znr5XL_D03_v4D7TVogoQnA6RJc5CpXtkBI_TUXs_tb1UPuEgNiF7Zmg
 
 	-https://github.com/nextgenusfs/augustus/tree/master/scripts?fbclid=IwAR0oyJY7j6Qdue-C_C1F1wGvHDOGVzemNZIT34Yulcn76PjvnBZ30_AWNVA
@@ -73,3 +132,4 @@ Resurse folosite:
 	-https://www.biostars.org/p/181712/
 	-https://support.bioconductor.org/p/42033/
 	-https://www.youtube.com/watch?v=_asGjfCTLNE
+	
